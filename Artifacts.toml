@@ -1,128 +1,128 @@
 [[Xorg_libXi]]
 arch = "aarch64"
-git-tree-sha1 = "9c30a43a21adb779541cf59192ea4ebe728899c7"
+git-tree-sha1 = "63053fe166d69bbc0c001c9af417e6e6c336d851"
 libc = "glibc"
 os = "linux"
 
     [[Xorg_libXi.download]]
-    sha256 = "ff8c8308145d98560ca3dfdf59ac575b455e25f6d14e52a5a11381ecd76392be"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXi_jll.jl/releases/download/Xorg_libXi-v1.8.4+0/Xorg_libXi.v1.8.4.aarch64-linux-gnu.tar.gz"
+    sha256 = "84525bffbf12b3b482e98fd8f2644f4a65786c94ad5bbfcddeedfbff73478f7d"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXi_jll.jl/releases/download/Xorg_libXi-v1.8.5+0/Xorg_libXi.v1.8.5.aarch64-linux-gnu.tar.gz"
 [[Xorg_libXi]]
 arch = "aarch64"
-git-tree-sha1 = "97a8928829e4bec3b951b25feae98852033513c0"
+git-tree-sha1 = "7887da79a634b4f7d27ebc8bcec1f75d87710ded"
 libc = "musl"
 os = "linux"
 
     [[Xorg_libXi.download]]
-    sha256 = "340e4d62c624d423bf80f0718de58cb67c7de8fe4e1016c1d109c030b5bd3fc3"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXi_jll.jl/releases/download/Xorg_libXi-v1.8.4+0/Xorg_libXi.v1.8.4.aarch64-linux-musl.tar.gz"
+    sha256 = "31435118393a02268cf70c81acf68df43c134e33deeda86eabc16fbd2b18f7bd"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXi_jll.jl/releases/download/Xorg_libXi-v1.8.5+0/Xorg_libXi.v1.8.5.aarch64-linux-musl.tar.gz"
 [[Xorg_libXi]]
 arch = "aarch64"
-git-tree-sha1 = "93f73c5bcfb1356da02c392755b6703aa4323040"
+git-tree-sha1 = "26878c8fe943dfc2a5bb5cd157f1375d7bedc8ee"
 os = "freebsd"
 
     [[Xorg_libXi.download]]
-    sha256 = "f10a8f03d8a265e3e1e59d34de79aeed2250c795d850cfe27d6a4ccbfbe8bd99"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXi_jll.jl/releases/download/Xorg_libXi-v1.8.4+0/Xorg_libXi.v1.8.4.aarch64-unknown-freebsd.tar.gz"
+    sha256 = "edcb1fb91031f1b539234d420f6eaaedbbf83ae2d084131dadb34e23ad7cf380"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXi_jll.jl/releases/download/Xorg_libXi-v1.8.5+0/Xorg_libXi.v1.8.5.aarch64-unknown-freebsd.tar.gz"
 [[Xorg_libXi]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "1125e049ad4874256591b1414cb279de628b26c2"
+git-tree-sha1 = "8270364065084b79a2794c3deba15f443faf5d16"
 libc = "glibc"
 os = "linux"
 
     [[Xorg_libXi.download]]
-    sha256 = "5c5acfcd67e35a707029d715a87000bee3ff92e0de83c83dc938d7f0c32531f0"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXi_jll.jl/releases/download/Xorg_libXi-v1.8.4+0/Xorg_libXi.v1.8.4.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "4fb26b38e700c24fed7166c44a1acbdef2b9a9ca9ecf50552c61f6120bb4782b"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXi_jll.jl/releases/download/Xorg_libXi-v1.8.5+0/Xorg_libXi.v1.8.5.armv6l-linux-gnueabihf.tar.gz"
 [[Xorg_libXi]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "678c4613540f8ceee08fceeeb735e942f047512c"
+git-tree-sha1 = "dda7af94ad37083f3301b16323ac4eae71ac773a"
 libc = "musl"
 os = "linux"
 
     [[Xorg_libXi.download]]
-    sha256 = "99cfef222a02bb04514618eada8b74f50cfaed54fe29570a653ebf1054067ad2"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXi_jll.jl/releases/download/Xorg_libXi-v1.8.4+0/Xorg_libXi.v1.8.4.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "6ea801a86419d451edb4e1d8110ae1c778cb5d2c57f6026a8ebeec04a9e853c9"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXi_jll.jl/releases/download/Xorg_libXi-v1.8.5+0/Xorg_libXi.v1.8.5.armv6l-linux-musleabihf.tar.gz"
 [[Xorg_libXi]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "f50d7ea4146be94ba0a9e2e4142a049a15ce8abd"
+git-tree-sha1 = "078d79d2d25ec123f2f3efddb7b75a31a782adc4"
 libc = "glibc"
 os = "linux"
 
     [[Xorg_libXi.download]]
-    sha256 = "59b5d7ef4c5058fb1d155fad79f534d85df3648caa22a345b3b542045f883a6c"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXi_jll.jl/releases/download/Xorg_libXi-v1.8.4+0/Xorg_libXi.v1.8.4.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "9c3464ff29016c51dd378fdf2cf4894975776b1d8a8cff2cb7ff641458c07b70"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXi_jll.jl/releases/download/Xorg_libXi-v1.8.5+0/Xorg_libXi.v1.8.5.armv7l-linux-gnueabihf.tar.gz"
 [[Xorg_libXi]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "1d89f08154c57dc8d3d6dbb0d4002588e936d147"
+git-tree-sha1 = "ad8a182e2f46fc901690ec0a29ab29b283f6c196"
 libc = "musl"
 os = "linux"
 
     [[Xorg_libXi.download]]
-    sha256 = "d032ca5b59c058034a8bda0261bf3a1c857f52971255c950cc720fd15c813afd"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXi_jll.jl/releases/download/Xorg_libXi-v1.8.4+0/Xorg_libXi.v1.8.4.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "c08b4d209c816234087fe35005a5be376e24a173c62d6ba41615cbf30311eb9c"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXi_jll.jl/releases/download/Xorg_libXi-v1.8.5+0/Xorg_libXi.v1.8.5.armv7l-linux-musleabihf.tar.gz"
 [[Xorg_libXi]]
 arch = "i686"
-git-tree-sha1 = "67ee7480e70c6f9091e287a33c821a4a6cbe490b"
+git-tree-sha1 = "24ab85eae33e28913c4291be46fbea0579c1b240"
 libc = "glibc"
 os = "linux"
 
     [[Xorg_libXi.download]]
-    sha256 = "99418279574e51b34a33f81f6085725f4f58296b45417d0ce71db0ac277b1812"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXi_jll.jl/releases/download/Xorg_libXi-v1.8.4+0/Xorg_libXi.v1.8.4.i686-linux-gnu.tar.gz"
+    sha256 = "837706b9d81bfb175be786ce37485852f2a08b8ba1ea40908e0d25730ab624a6"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXi_jll.jl/releases/download/Xorg_libXi-v1.8.5+0/Xorg_libXi.v1.8.5.i686-linux-gnu.tar.gz"
 [[Xorg_libXi]]
 arch = "i686"
-git-tree-sha1 = "55b1793df46bac8adb8f90731b9de3143e69bd57"
+git-tree-sha1 = "1bc922b919aef9c7c792e52b300000c58b037cca"
 libc = "musl"
 os = "linux"
 
     [[Xorg_libXi.download]]
-    sha256 = "aa4629192019685e5a34de33cb5e4008e13cf5211d32a138089d0e4536f2bfe2"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXi_jll.jl/releases/download/Xorg_libXi-v1.8.4+0/Xorg_libXi.v1.8.4.i686-linux-musl.tar.gz"
+    sha256 = "c0eaaebf68924aa1e50564ef7c4be5e9261b54cfd452d1945b3feaa9b4d8417d"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXi_jll.jl/releases/download/Xorg_libXi-v1.8.5+0/Xorg_libXi.v1.8.5.i686-linux-musl.tar.gz"
 [[Xorg_libXi]]
 arch = "powerpc64le"
-git-tree-sha1 = "db876a9cb74186f45f738c628984718c83882716"
+git-tree-sha1 = "fdd1788fe960a8c3e4f66e6f267b6294949f7adf"
 libc = "glibc"
 os = "linux"
 
     [[Xorg_libXi.download]]
-    sha256 = "c518ed55a92c8329bd35d30b28654af9d509bbf7a88a2d150fdbda382750a6ec"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXi_jll.jl/releases/download/Xorg_libXi-v1.8.4+0/Xorg_libXi.v1.8.4.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "058ef19a5e1b99c59cca3f2210432751970459210d8c221aa9095f5332e13d4c"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXi_jll.jl/releases/download/Xorg_libXi-v1.8.5+0/Xorg_libXi.v1.8.5.powerpc64le-linux-gnu.tar.gz"
 [[Xorg_libXi]]
 arch = "riscv64"
-git-tree-sha1 = "cf36fe35850147fd1bfef12b495e422221f97e01"
+git-tree-sha1 = "a0a0e7db7c8a9cb9b94fe31b66b693e70d8b9899"
 libc = "glibc"
 os = "linux"
 
     [[Xorg_libXi.download]]
-    sha256 = "37d6a3e010295d50b38586d2e9def06575d5497ffb38d68506c7cda1362247d9"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXi_jll.jl/releases/download/Xorg_libXi-v1.8.4+0/Xorg_libXi.v1.8.4.riscv64-linux-gnu.tar.gz"
+    sha256 = "2a6e01ac023160d939c79d4a9efe20c95cd1c22c3759f08d6cbd36f84482b971"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXi_jll.jl/releases/download/Xorg_libXi-v1.8.5+0/Xorg_libXi.v1.8.5.riscv64-linux-gnu.tar.gz"
 [[Xorg_libXi]]
 arch = "x86_64"
-git-tree-sha1 = "96c574614fc0bfdd4e7a04a6a7405f4f6f75712d"
+git-tree-sha1 = "778c912162fde96d923ea65b8235667b12ff255a"
 libc = "glibc"
 os = "linux"
 
     [[Xorg_libXi.download]]
-    sha256 = "f3ce181734d18fd0d79577ed00810ed98ee8f533a6f606edfe8eded18c3f7384"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXi_jll.jl/releases/download/Xorg_libXi-v1.8.4+0/Xorg_libXi.v1.8.4.x86_64-linux-gnu.tar.gz"
+    sha256 = "0a0e4087166398a5f9bb797c6744c6f17444fc76474bc17e488efc040356313c"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXi_jll.jl/releases/download/Xorg_libXi-v1.8.5+0/Xorg_libXi.v1.8.5.x86_64-linux-gnu.tar.gz"
 [[Xorg_libXi]]
 arch = "x86_64"
-git-tree-sha1 = "93779720abbc125ab62232fc78e75228fa0f38ee"
+git-tree-sha1 = "2a7966a83eabf86a5892935b28ed42ba022d5f40"
 libc = "musl"
 os = "linux"
 
     [[Xorg_libXi.download]]
-    sha256 = "f86dcb3045783ea34c8d68a0f91b58c28c44cf588c0f6a75948289010821122f"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXi_jll.jl/releases/download/Xorg_libXi-v1.8.4+0/Xorg_libXi.v1.8.4.x86_64-linux-musl.tar.gz"
+    sha256 = "b892e04aaa29bc09507d3e6614d4246fd0f49e395232ea5469ccd57a7b809642"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXi_jll.jl/releases/download/Xorg_libXi-v1.8.5+0/Xorg_libXi.v1.8.5.x86_64-linux-musl.tar.gz"
 [[Xorg_libXi]]
 arch = "x86_64"
-git-tree-sha1 = "ec5ccd04956eca82f04074c7474db2a45778dea2"
+git-tree-sha1 = "7b302c461bd4cad49555970bb72173a52a33ef72"
 os = "freebsd"
 
     [[Xorg_libXi.download]]
-    sha256 = "d14ee5695fde967dccbe69c46fb0bcc1dc59eb2bc8879c57722d07a6312fd69f"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXi_jll.jl/releases/download/Xorg_libXi-v1.8.4+0/Xorg_libXi.v1.8.4.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "633d7f1f8236f0119a9a48a04cc8c83583d94b4f329f8f39418577bdecabe742"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXi_jll.jl/releases/download/Xorg_libXi-v1.8.5+0/Xorg_libXi.v1.8.5.x86_64-unknown-freebsd.tar.gz"
